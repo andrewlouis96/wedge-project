@@ -61,7 +61,7 @@ a database file called reporting.db that has all the tables requested in task 3.
 | Null_DT  | 0  | 0  | 0  |   |
 | Null_Local  | 0  | 234843  | 234843  | -1  |
 | Null_CN  | 0  | 0  | 0  |   |
-| Num 5 on High Volume Cards  | 14987  | 14987  | Yes  | NA  |
+| Num 5 on High Volume Cards  | 14987  | 14987  | No  | NA  |
 |  Num Rows for Number 5 | 460630  | 460630  | 0  |   |
 | Num Rows for 18736  | 12153  | 12153  | 0  |   |
 | Product with Most Rows  | banana organic  | banana organic  | No  | NA  |
@@ -69,9 +69,9 @@ a database file called reporting.db that has all the tables requested in task 3.
 | Product with Fourth-Most Rows  | avocado hass organic  | avocado hass organic  | No  | NA  |
 | Num Rows for that Product  | 456771  | 456771  | 0  |   |
 | Num Single Record Products  | 2769  | 2769  | 0  |   |
-| Year with Highest Portion of Owner Rows  | 2012  | 2012  | Yes  | NA |
+| Year with Highest Portion of Owner Rows  | 2012  | 2012  | No  | NA |
 | Fraction of Rows from Owners in that Year  | 0.7418  | 0.7418  | 0  |   |
-| Year with Lowest Portion of Owner Rows  | 2017  | 2017  | Yes  | NA |
+| Year with Lowest Portion of Owner Rows  | 2017  | 2017  | No  | NA |
 | Fraction of Rows from Owners in that Year  | 0.7513 | 0.7513   | 0  |   |
 
 ## Reflections
