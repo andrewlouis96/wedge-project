@@ -57,9 +57,9 @@ a database file called reporting.db that has all the tables requested in task 3.
 | Num Rows in Month with Fewest  | 6556770  | 6556770  | 0  |   |
 | Month with Most  | May  | May  | No  | NA  |
 | Num Rows in Month with Most  | 7578372  | 7578372  | 0  |   |
-| Null_TS  | 0  | 7123792  | 7123792  | -1  |
+| Null_TS  | 0  | 7123792  | 7123792  | NA  |
 | Null_DT  | 0  | 0  | 0  |   |
-| Null_Local  | 0  | 234843  | 234843  | -1  |
+| Null_Local  | 0  | 234843  | 234843  | NA  |
 | Null_CN  | 0  | 0  | 0  |   |
 | Num 5 on High Volume Cards  | 14987  | 14987  | No  | NA  |
 |  Num Rows for Number 5 | 460630  | 460630  | 0  |   |
